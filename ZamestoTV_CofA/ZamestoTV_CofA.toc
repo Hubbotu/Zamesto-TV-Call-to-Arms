@@ -1,0 +1,12 @@
+## Interface: 110007
+## Title: ZamestoTV: Call to Arms
+## Title-ruRU: ZamestoTV: Призыв к оружию
+## Notes: Call to Arms Starting Hints
+## Notes-ruRU: Подсказки к началу Призыва к оружию
+## RequiredDeps: Blizzard_GroupFinder
+## Author: ZamestoTV
+## IconTexture: Interface\AddOns\ZamestoTV_CofA\Icons\goblin
+## Version: 1.0
+
+call.lua
+
